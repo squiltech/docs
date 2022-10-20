@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://squil-documentation.net/'
 languageCode = 'en-us'
 title = 'docs'
 theme = "hugo-geekdoc"
