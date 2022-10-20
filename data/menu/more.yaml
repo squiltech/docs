@@ -8,10 +8,10 @@ more:
     external: true
     icon: "play"
   - name: "Microsoft Store"
-    ref: "https://squil.azurewebsites.net"
+    ref: "https://apps.microsoft.com/store/detail/squil-database-browser/9N8RGM5P5XD2"
     external: true
     icon: "windows"
   - name: "Docker Registry"
-    ref: "https://squil.azurewebsites.net"
+    ref: "https://hub.docker.com/r/squiltech/squil"
     external: true
     icon: "docker"
