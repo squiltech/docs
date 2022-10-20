@@ -1,0 +1,9 @@
+---
+main:
+  - name: Docs
+    ref: "/"
+    sub:
+      - name: Overview
+        ref: "/overview"
+      - name: Getting started
+        ref: "/getting-started"

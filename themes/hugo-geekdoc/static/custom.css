@@ -1,1 +1,20 @@
 /* You can add custom styles here. */
+
+.gdoc-markdown pre,
+.gdoc-markdown code {
+    overflow: auto;
+}
+
+.gdoc-brand__img {
+    width: unset;
+}
+
+.gdoc-brand__title {
+    transform: translateY(2px);
+}
+
+.gdoc-nav .gdoc-nav__list .gdoc-icon {
+    width: 1rem;
+    height: 1rem;
+    margin-right: .5rem;
+}

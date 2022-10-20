@@ -1,0 +1,17 @@
+more:
+  - name: Website
+    ref: "https://squil.net"
+    external: true
+    icon: "globe"
+  - name: Demo
+    ref: "https://squil.azurewebsites.net"
+    external: true
+    icon: "play"
+  - name: "Microsoft Store"
+    ref: "https://squil.azurewebsites.net"
+    external: true
+    icon: "windows"
+  - name: "Docker Registry"
+    ref: "https://squil.azurewebsites.net"
+    external: true
+    icon: "docker"
