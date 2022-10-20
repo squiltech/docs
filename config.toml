@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Docs'
+title = 'docs'
 theme = "hugo-geekdoc"
 
 # Required to get well formatted code blocks
