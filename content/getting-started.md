@@ -8,7 +8,7 @@ The easiest way to quickly try SQuiL on your own database is to install the desk
 
 <https://apps.microsoft.com/store/detail/squil-database-browser/9N8RGM5P5XD2>
 
-After launch, the app will allow you configure connections to SQL Server instances.
+After launch, the app will allow you to configure connections to SQL Server instances.
 
 ## SQuiL Web
 
@@ -40,7 +40,7 @@ the Docker UI.
 
 Before you then create a container instance from this image, first create an
 environment variables file defining your database connections. The file's name
-and location doesn't matter, and the contents should look like this:
+and location don't matter, and the contents should look like this:
 
 ```
 Connections__0__Name=AdventureWorksLT2017
